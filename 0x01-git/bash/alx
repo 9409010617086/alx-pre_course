@@ -1,12 +1,4 @@
-[master fa4ba74] 0x01-git
- 3 files changed, 1 insertion(+)
- create mode 100644 0x01-git/bash/ALX
- create mode 100644 0x01-git/bash/alx
- create mode 100644 0x01-git/bash/school
-[master 75595f4] o
- 1 file changed, 5 insertions(+), 1 deletion(-)
-alx
+echo
+!#/bin/bash
 ALX
-school
-[master f606e33] o
- 1 file changed, 5 insertions(+)
+echo ALX
