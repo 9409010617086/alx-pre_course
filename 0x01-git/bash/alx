@@ -1,2 +1,3 @@
-echo "ALX School is so cool!"
-I am okay to go
+#!/bin/bash
+echo "ALX School is so cool"
+echo "ALX"
